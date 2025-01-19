@@ -8,7 +8,7 @@ https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE160269
 
 ## Code
 
-
+python runner.py
 
 ## Reference
 
